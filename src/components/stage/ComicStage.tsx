@@ -250,7 +250,8 @@ export function ComicStage({ character, locked, reduced }: Props) {
       <div
         ref={wrapRef}
         className="relative min-h-0 flex-1 cursor-zoom-in"
-        onPointerDown={(e) => {
+        // clique (e não pointerdown): no celular, começar a rolar com o dedo sobre a figura não move a lupa
+        onClick={(e) => {
           if (e.target === e.currentTarget && showLens) moveLensTo(e.clientX, e.clientY)
         }}
       >

@@ -66,6 +66,16 @@ export function sfx(
 ) {
   if (t <= 0 || t >= 1) return
   const g = c.ctx
+  // em tela estreita (celular) o balão encolhe e é puxado para dentro do quadro
+  const reach = size * text.length * (opts.burstFill ? 0.36 : 0.26)
+  const fit = Math.min(1, (c.width * 0.27) / reach)
+  size *= fit
+  const r = reach * fit
+  const x0 = x
+  x = Math.min(Math.max(x, r * 0.95), c.width - r * 0.95)
+  // se precisou vir muito para dentro, sobe para o canto e deixa o rosto livre
+  if (Math.abs(x - x0) > r * 0.4) y = Math.min(y, r * 0.8)
+  y = Math.min(Math.max(y, r * 0.75), c.height - r * 0.75)
   const enter = clamp(t / 0.25)
   const leave = clamp((1 - t) / 0.2)
   // overshoot elástico na entrada

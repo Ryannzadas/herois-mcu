@@ -152,7 +152,9 @@ const msmarvel: EffectFactory = (c) => {
         const over = grow < 1 ? Math.sin(grow * Math.PI) * 0.18 : 0
         const size = u1 * 0.66 * (grow + over)
         // soca da direita para a esquerda, parando ao lado da figura
-        const [fx, fy] = c.toScreen(1.42 - grow * 0.24, cv + 0.14)
+        const [fx0, fy] = c.toScreen(1.42 - grow * 0.24, cv + 0.14)
+        // em tela estreita o punho entra pela borda em vez de sair do quadro
+        const fx = Math.min(fx0, c.width - size * 0.4)
         g.save()
         g.globalAlpha = fistA
         g.translate(fx, fy)
