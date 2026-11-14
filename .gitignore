@@ -26,3 +26,5 @@ dist-ssr
 # testes no navegador e deploy
 .playwright-cli
 .vercel
+
+.vercel
