@@ -1,0 +1,1713 @@
+{
+  "homem-de-ferro": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore",
+      "name": "Robert Downey Jr."
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e1/Iron_Man_Armor_%28Mark_I%29.png/revision/latest?cb=20230910005228",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Armor_(Mark_I).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Afeganistão",
+        "year": 2008,
+        "film": "Homem de Ferro"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e9/Mark_II_%28Flight%29.png/revision/latest?cb=20230910174315",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Mark_II_(Flight).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Malibu",
+        "year": 2008,
+        "film": "Homem de Ferro"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/Briefcase_armor-Iron_Man_2.JPG/revision/latest?cb=20200718203540",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Briefcase_armor-Iron_Man_2.JPG",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Mônaco",
+        "year": 2010,
+        "film": "Homem de Ferro 2"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/Iron_Man_Nuke_Space.png/revision/latest?cb=20190420194353",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Nuke_Space.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Nova York",
+        "year": 2012,
+        "film": "Os Vingadores"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/80/Iron_Man_%28Sokovia%29.png/revision/latest?cb=20181222082700",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_(Sokovia).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sokovia",
+        "year": 2015,
+        "film": "Vingadores: Era de Ultron"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7c/Thanos_vs._Iron_Man.png/revision/latest?cb=20240803081607",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thanos_vs._Iron_Man.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Titã",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f8/Iron_Man_%28Battle_of_Earth%29.png/revision/latest?cb=20190813185114",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_(Battle_of_Earth).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2019,
+        "film": "Vingadores: Ultimato"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fb/Iron_Man_Armor_-_Mark_I.png/revision/latest?cb=20181116150929",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Armor_-_Mark_I.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Mark I",
+        "year": 2008,
+        "film": "Homem de Ferro"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/47/Iron_Man_Armor_-_Mark_III.png/revision/latest?cb=20170424185316",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Armor_-_Mark_III.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Mark III",
+        "year": 2008,
+        "film": "Homem de Ferro"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/71/Iron_Man_Armor_-_Mark_VII.png/revision/latest?cb=20181207085104",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Armor_-_Mark_VII.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Mark VII",
+        "year": 2012,
+        "film": "Os Vingadores"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3b/Iron_Man_Armor_-_Mark_XLII.png/revision/latest?cb=20170424190250",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Armor_-_Mark_XLII.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Mark XLII",
+        "year": 2013,
+        "film": "Homem de Ferro 3"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Iron_Man_Armor_-_Mark_XLVI.png/revision/latest?cb=20170424190420",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Armor_-_Mark_XLVI.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Mark XLVI",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Iron_Man_Armor_-_Mark_L.png/revision/latest?cb=20180318221316",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Iron_Man_Armor_-_Mark_L.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Mark L",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      }
+    ]
+  },
+  "thor": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_by_Gage_Skidmore_2_(cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Chris Hemsworth"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/76/Thor_Mjolnir_Rain.png/revision/latest?cb=20161109104212",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thor_Mjolnir_Rain.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Novo México",
+        "year": 2011,
+        "film": "Thor"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e7/Thor-The-Dark-World-Beyond-Realms-Behind-the-Scenes-Featurette-1-.jpg/revision/latest?cb=20150831165006",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thor-The-Dark-World-Beyond-Realms-Behind-the-Scenes-Featurette-1-.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Svartalfheim",
+        "year": 2013,
+        "film": "Thor: O Mundo Sombrio"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Thor_%26_Odin_%28Norway%29.png/revision/latest?cb=20180420134205",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thor_%26_Odin_(Norway).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Noruega",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/21/Thor_%26_Hulk.png/revision/latest?cb=20200228094729",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thor_%26_Hulk.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sakaar",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/Thor_arrives_in_Wakanda.jpg/revision/latest?cb=20220424055423",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thor_arrives_in_Wakanda.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Wakanda",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/32/Thor_4_part_of_New_Asgard_BTS.png/revision/latest?cb=20210617220145",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thor_4_part_of_New_Asgard_BTS.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Nova Asgard",
+        "year": 2019,
+        "film": "Vingadores: Ultimato"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c4/Breaking_into_Omnipotence_City_Chamber.png/revision/latest?cb=20220525024816",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Breaking_into_Omnipotence_City_Chamber.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Cidade da Onipotência",
+        "year": 2022,
+        "film": "Thor: Amor e Trovão"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e5/Thor_Gladiator_Jackson_Sze_CA.jpg/revision/latest?cb=20171212103619",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Thor_Gladiator_Jackson_Sze_CA.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Gladiador de Sakaar",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1d/Gladiator_Thor_Concept_Art_%284%29.jpg/revision/latest?cb=20260725161238",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gladiator_Thor_Concept_Art_(4).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Ragnarok",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ed/Avengers_Infinity_War_Thor_concept_art_3.jpg/revision/latest?cb=20181106193641",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Avengers_Infinity_War_Thor_concept_art_3.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Guerra Infinita",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      }
+    ]
+  },
+  "capitao-america": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chris_Evans_-_Captain_America_2_press_conference_headshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Chris_Evans_-_Captain_America_2_press_conference_headshot.jpg",
+      "license": "CC BY 2.0",
+      "artist": "Elen Nivrae",
+      "name": "Chris Evans"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e6/Captain_America_%28Valkyrie%29.png/revision/latest?cb=20190318044625",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_America_(Valkyrie).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Ártico",
+        "year": 1945,
+        "film": "Capitão América: O Primeiro Vingador"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Captain_America_%28Battle_of_New_York%29.png/revision/latest?cb=20180826004520",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_America_(Battle_of_New_York).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Nova York",
+        "year": 2012,
+        "film": "Os Vingadores"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ab/TriskelionElevator.jpg/revision/latest?cb=20140513212915",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:TriskelionElevator.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Washington",
+        "year": 2014,
+        "film": "Capitão América 2: O Soldado Invernal"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/85/IronMan-vs-Cap-Airport.jpg/revision/latest?cb=20170712102802",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:IronMan-vs-Cap-Airport.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Leipzig",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e6/Captain_America_uses_Mjolnir.png/revision/latest?cb=20190828101039",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_America_uses_Mjolnir.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Captain_America_%26_Mjolnir.png/revision/latest?cb=20190728160946",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_America_%26_Mjolnir.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Nova York",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3c/Avengers_Endgame_Hot_Toys_Captain_America_2012_18.jpg/revision/latest?cb=20200103104652",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Avengers_Endgame_Hot_Toys_Captain_America_2012_18.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Uniforme 2012",
+        "year": 2012,
+        "film": "Os Vingadores"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/42/Captain-America-Civil-War-Promo-Art-costume-first-look.jpg/revision/latest?cb=20150515032738",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain-America-Civil-War-Promo-Art-costume-first-look.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Guerra Civil",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/Captain_America_-_Endgame_Mjolnir_Fathead.png/revision/latest?cb=20200113192826",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_America_-_Endgame_Mjolnir_Fathead.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Digno",
+        "year": 2019,
+        "film": "Vingadores: Ultimato"
+      }
+    ]
+  },
+  "hulk": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Mark_Ruffalo_%2836201774756%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Mark_Ruffalo_(36201774756)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+      "name": "Mark Ruffalo"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/79/Culver_University.jpg/revision/latest?cb=20151019234702",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Culver_University.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Universidade Culver",
+        "year": 2008,
+        "film": "O Incrível Hulk"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Hulk_%28Harlem%29.png/revision/latest?cb=20190411002923",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Hulk_(Harlem).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Harlem",
+        "year": 2008,
+        "film": "O Incrível Hulk"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b1/Hulk_the_Gladiator.png/revision/latest?cb=20200228093135",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Hulk_the_Gladiator.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sakaar",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Valkyrie_%26_Hulk_%28Sakaar%29.png/revision/latest?cb=20180421144358",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Valkyrie_%26_Hulk_(Sakaar).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sakaar",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/09/Smart_Hulk.png/revision/latest?cb=20210513230712",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Smart_Hulk.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Gladiator_Hulk.jpg/revision/latest?cb=20160723163221",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gladiator_Hulk.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Gladiador",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/65/Smart_Hulk_-_Endgame.jpg/revision/latest?cb=20190506122658",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Smart_Hulk_-_Endgame.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje quântico",
+        "year": 2019,
+        "film": "Vingadores: Ultimato"
+      }
+    ]
+  },
+  "viuva-negra": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2_(cropped)_(cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Scarlett Johansson"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Widow%2C_Fury_and_Iron_Man.png/revision/latest?cb=20210331224549",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Widow,_Fury_and_Iron_Man.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Los Angeles",
+        "year": 2010,
+        "film": "Homem de Ferro 2"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/bc/Black-Widow-in-Action.jpg/revision/latest?cb=20200502151624",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Black-Widow-in-Action.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Queens",
+        "year": 2010,
+        "film": "Homem de Ferro 2"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9c/Natasha_Romanoff_%28Budapest%29.png/revision/latest?cb=20210710124950",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Natasha_Romanoff_(Budapest).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Budapeste",
+        "year": 2016,
+        "film": "Viúva Negra"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/88/Natasha_Romanoff_%28Red_Room%29.png/revision/latest?cb=20210711105606",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Natasha_Romanoff_(Red_Room).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sala Vermelha",
+        "year": 2016,
+        "film": "Viúva Negra"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Natasha_on_Vormir.jpg/revision/latest?cb=20210427160630",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Natasha_on_Vormir.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Vormir",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e7/Black-Widow-Iron-Man-2-promo.jpg/revision/latest?cb=20141204044252",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Black-Widow-Iron-Man-2-promo.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Uniforme da S.H.I.E.L.D.",
+        "year": 2010,
+        "film": "Homem de Ferro 2"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d4/Black_Widow_costume.jpg/revision/latest?cb=20150329004346",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Black_Widow_costume.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Missão em Washington",
+        "year": 2014,
+        "film": "Capitão América 2: O Soldado Invernal"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/04/Black_Widow_Snow_Suit_Hot_Toys8.jpg/revision/latest?cb=20210727165511",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Black_Widow_Snow_Suit_Hot_Toys8.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje de neve",
+        "year": 2021,
+        "film": "Viúva Negra"
+      }
+    ]
+  },
+  "gaviao-arqueiro": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jeremy_Renner_by_Gage_Skidmore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Jeremy_Renner_by_Gage_Skidmore_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Jeremy Renner"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/89/Hawkeye-Thor.png/revision/latest?cb=20141025183754",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Hawkeye-Thor.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Novo México",
+        "year": 2011,
+        "film": "Thor"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4f/Hawkeye_%28May_2012%29.png/revision/latest?cb=20181020053651",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Hawkeye_(May_2012).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Nova York",
+        "year": 2012,
+        "film": "Os Vingadores"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/be/HawkeyeShootingAtUltrons-Sokovia.jpg/revision/latest?cb=20190314211604",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:HawkeyeShootingAtUltrons-Sokovia.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sokovia",
+        "year": 2015,
+        "film": "Vingadores: Era de Ultron"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d6/Ronin_%282023%29.jpg/revision/latest?cb=20190517133320",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Ronin_(2023).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Tóquio",
+        "year": 2018,
+        "film": "Vingadores: Ultimato"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f5/Kate_Bishop_%28The_Rink_at_Rockefeller_Center%29.png/revision/latest?cb=20211227114121",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Kate_Bishop_(The_Rink_at_Rockefeller_Center).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Rockefeller Center",
+        "year": 2024,
+        "film": "Gavião Arqueiro"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/Clint_Hawkeye_Suit.jpg/revision/latest?cb=20220211033757",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Clint_Hawkeye_Suit.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Uniforme 2012",
+        "year": 2012,
+        "film": "Os Vingadores"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7d/Hawkeye_%28Civil_War_Topps%29.jpg/revision/latest?cb=20251203235231",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Hawkeye_(Civil_War_Topps).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Guerra Civil",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/89/Yelena_in_Ronin_Suit.png/revision/latest?cb=20231128151027",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Yelena_in_Ronin_Suit.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Ronin",
+        "year": 2019,
+        "film": "Vingadores: Ultimato"
+      }
+    ]
+  },
+  "homem-aranha": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tom_Holland_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tom_Holland_by_Gage_Skidmore.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Tom Holland"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/11/Spider-Man_at_the_airport.png/revision/latest?cb=20260808040655",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Spider-Man_at_the_airport.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Leipzig",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Spider-Man_%28Washington_Monument_Peak%29.png/revision/latest?cb=20171019160346",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Spider-Man_(Washington_Monument_Peak).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Washington",
+        "year": 2016,
+        "film": "Homem-Aranha: De Volta ao Lar"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/95/Spider-Man_lands_on_the_Staten_Island_Ferry.png/revision/latest?cb=20171019190752",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Spider-Man_lands_on_the_Staten_Island_Ferry.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Balsa de Staten Island",
+        "year": 2016,
+        "film": "Homem-Aranha: De Volta ao Lar"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/47/Spider-Man_%28Titan%29.png/revision/latest?cb=20180819191314",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Spider-Man_(Titan).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Titã",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/79/Venice_Peter_Parker.png/revision/latest?cb=20190622140954",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Venice_Peter_Parker.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Veneza",
+        "year": 2024,
+        "film": "Homem-Aranha: Longe de Casa"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c2/The_Amazing_Spider-Man_%28Statue_of_Liberty%29.png/revision/latest?cb=20231207000743",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:The_Amazing_Spider-Man_(Statue_of_Liberty).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Estátua da Liberdade",
+        "year": 2024,
+        "film": "Homem-Aranha: Sem Volta para Casa"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/14/Spider-Man_Homemade_Suit_Hot_Toys_21.jpg/revision/latest?cb=20190829224248",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Spider-Man_Homemade_Suit_Hot_Toys_21.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje caseiro",
+        "year": 2016,
+        "film": "Homem-Aranha: De Volta ao Lar"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/Spider-man-movie-promo-edition_marvel_silo.png/revision/latest?cb=20230503104120",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Spider-man-movie-promo-edition_marvel_silo.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje Stark",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/49/DST_Iron_Spider.jpg/revision/latest?cb=20181113003737",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:DST_Iron_Spider.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Aranha de Ferro",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fe/Spider-man-upgraded-suit_marvel_silo.png/revision/latest?cb=20230503104216",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Spider-man-upgraded-suit_marvel_silo.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje aprimorado",
+        "year": 2019,
+        "film": "Homem-Aranha: Longe de Casa"
+      }
+    ]
+  },
+  "doutor-estranho": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Benedict_Cumberbatch_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Benedict_Cumberbatch_crop.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore",
+      "name": "Benedict Cumberbatch"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/dd/Mordo-vs-Strange-Training.jpg/revision/latest?cb=20171107210111",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Mordo-vs-Strange-Training.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Kamar-Taj",
+        "year": 2016,
+        "film": "Doutor Estranho"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0d/Mirror_Dimension_Battle_4.png/revision/latest?cb=20170613181918",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Mirror_Dimension_Battle_4.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Dimensão Espelhada",
+        "year": 2016,
+        "film": "Doutor Estranho"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4e/Sanctum_Sanctorum_%28Doctor_Strange%29.png/revision/latest?cb=20170603192240",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Sanctum_Sanctorum_(Doctor_Strange).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sanctum Sanctorum",
+        "year": 2016,
+        "film": "Doutor Estranho"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5a/Dr-strange-movie-screencaps.com-5139.jpg/revision/latest?cb=20180714165918",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Dr-strange-movie-screencaps.com-5139.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Hong Kong",
+        "year": 2016,
+        "film": "Doutor Estranho"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/13/Doctor_Strange_meets_Thanos.png/revision/latest?cb=20230504195041",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Doctor_Strange_meets_Thanos.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Titã",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/49/Cloak_of_Levitation_Featurette_2.png/revision/latest?cb=20161102204349",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Cloak_of_Levitation_Featurette_2.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Manto da Levitação",
+        "year": 2016,
+        "film": "Doutor Estranho"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/09/Supreme_Strange_Concept.jpg/revision/latest?cb=20260421022353",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Supreme_Strange_Concept.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Multiverso",
+        "year": 2022,
+        "film": "Doutor Estranho no Multiverso da Loucura"
+      }
+    ]
+  },
+  "pantera-negra": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Chadwick_Boseman_%2828017825484%29_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Chadwick_Boseman_(28017825484)_(cropped_2).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+      "name": "Chadwick Boseman"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ae/Black_Panther_Airport_Explosion.jpg/revision/latest?cb=20160427021003",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Black_Panther_Airport_Explosion.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Bucareste",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c3/Black_Panther_%28Busan%2C_South_Korea%29.png/revision/latest?cb=20181214032431",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Black_Panther_(Busan,_South_Korea).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Busan",
+        "year": 2016,
+        "film": "Pantera Negra"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8c/Killmonger_and_T%27Challa.jpg/revision/latest?cb=20170719220623",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Killmonger_and_T%27Challa.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Cidade Dourada",
+        "year": 2016,
+        "film": "Pantera Negra"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6a/T%27Challa_Ancestral_Plane.png/revision/latest?cb=20181216031247",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:T%27Challa_Ancestral_Plane.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Plano Ancestral",
+        "year": 2016,
+        "film": "Pantera Negra"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/03/Black_Panther_%28Battle_of_Wakanda%29.png/revision/latest?cb=20180819023740",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Black_Panther_(Battle_of_Wakanda).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Wakanda",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1d/Captain_America_Civil_War_promo_Black_Panther.jpg/revision/latest?cb=20160314143904",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_America_Civil_War_promo_Black_Panther.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje real",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/eb/Shuri%27s_Panther_Habit.png/revision/latest?cb=20230524144759",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Shuri%27s_Panther_Habit.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje da Shuri",
+        "year": 2025,
+        "film": "Pantera Negra: Wakanda para Sempre"
+      }
+    ]
+  },
+  "feiticeira-escarlate": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Elizabeth_Olsen_at_the_2024_Toronto_International_Film_Festival_2_%28better_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Olsen_at_the_2024_Toronto_International_Film_Festival_2_(better_crop).jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "John Sears",
+      "name": "Elizabeth Olsen"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f3/Wanda_and_Pietro_in_Sokovia.jpg/revision/latest?cb=20151031154452",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Wanda_and_Pietro_in_Sokovia.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sokovia",
+        "year": 2015,
+        "film": "Vingadores: Era de Ultron"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/78/CACW_Airport_Battle_Concept.jpg/revision/latest?cb=20161026235100",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:CACW_Airport_Battle_Concept.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Leipzig",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/15/Scarlet_Witch_%28Infinity_War_BTS%29.png/revision/latest?cb=20180813193217",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Scarlet_Witch_(Infinity_War_BTS).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Wakanda",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f6/Scarlet_Witch_Endgame_battle_11.png/revision/latest?cb=20201006023145",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Scarlet_Witch_Endgame_battle_11.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6c/Scarlet_Witch_%28Westview%29.png/revision/latest?cb=20210308055526",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Scarlet_Witch_(Westview).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Westview",
+        "year": 2023,
+        "film": "WandaVision"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e0/Wanda_%28Scarlet_Witch%29_-_Doctor_Strange_in_the_Multiverse_of_Madness.jpg/revision/latest?cb=20211222230204",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Wanda_(Scarlet_Witch)_-_Doctor_Strange_in_the_Multiverse_of_Madness.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Monte Wundagore",
+        "year": 2024,
+        "film": "Doutor Estranho no Multiverso da Loucura"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/ba/ScarletWitch_CACW.jpg/revision/latest?cb=20160401174738",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:ScarletWitch_CACW.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Casaco vermelho",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/76/Infinity_war_scarlet_witch_2.png/revision/latest?cb=20180308120958",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Infinity_war_scarlet_witch_2.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Guerra Infinita",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      }
+    ]
+  },
+  "visao": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Paul_Bettany_%2848469131797%29_%28cropped%29~2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Bettany_(48469131797)_(cropped)~2.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+      "name": "Paul Bettany"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/77/Vision%27s_Birth_3.jpg/revision/latest?cb=20170325072536",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Vision%27s_Birth_3.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Torre dos Vingadores",
+        "year": 2015,
+        "film": "Vingadores: Era de Ultron"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a4/Vision-strangled-by-Ultron.jpg/revision/latest?cb=20151101200001",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Vision-strangled-by-Ultron.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sokovia",
+        "year": 2015,
+        "film": "Vingadores: Era de Ultron"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2a/Vision_and_Wanda.jpg/revision/latest?cb=20210609032632",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Vision_and_Wanda.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Edimburgo",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Vision_%28Removing_the_Mind_Stone%29.png/revision/latest?cb=20180819193558",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Vision_(Removing_the_Mind_Stone).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Wakanda",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/61/Vision_%26_the_Harts.jpg/revision/latest?cb=20210502163504",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Vision_%26_the_Harts.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Westview",
+        "year": 2023,
+        "film": "WandaVision"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c9/AoU_Vision_0001.png/revision/latest?cb=20150310052812",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:AoU_Vision_0001.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Corpo de vibranium",
+        "year": 2015,
+        "film": "Vingadores: Era de Ultron"
+      }
+    ]
+  },
+  "capita-marvel": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_(cropped).jpg",
+      "license": "Domínio público",
+      "artist": "2d Lt Jessica Cicchetto",
+      "name": "Brie Larson"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1d/House_of_the_Supreme_Intelligence.png/revision/latest?cb=20210518054646",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:House_of_the_Supreme_Intelligence.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Hala",
+        "year": 1995,
+        "film": "Capitã Marvel"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3a/Carol_Danvers_%28Blockbuster%29.png/revision/latest?cb=20190529161211",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Carol_Danvers_(Blockbuster).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Los Angeles",
+        "year": 1995,
+        "film": "Capitã Marvel"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/79/Captain_Marvel_fighting_Kree_ships.jpg/revision/latest?cb=20190315180116",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_Marvel_fighting_Kree_ships.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Órbita da Terra",
+        "year": 1995,
+        "film": "Capitã Marvel"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9f/Carol_Flying.png/revision/latest?cb=20190626050604",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Carol_Flying.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Frota de Ronan",
+        "year": 1995,
+        "film": "Capitã Marvel"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Captain_Marvel_vs_Thanos_%28Endgame%29.jpg/revision/latest?cb=20190528180859",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_Marvel_vs_Thanos_(Endgame).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4d/Captain_Marvel_Render.png/revision/latest?cb=20190218180137",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Captain_Marvel_Render.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje vermelho e azul",
+        "year": 1995,
+        "film": "Capitã Marvel"
+      }
+    ]
+  },
+  "homem-formiga": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Paul_Rudd_2_SDCC_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Rudd_2_SDCC_2014.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore",
+      "name": "Paul Rudd"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/90/Pym_Technologies_Building.jpg/revision/latest?cb=20210816230244",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Pym_Technologies_Building.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Pym Tech",
+        "year": 2015,
+        "film": "Homem-Formiga"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/16/Ant-Man_screenshot_12.jpg/revision/latest?cb=20150710202747",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Ant-Man_screenshot_12.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "São Francisco",
+        "year": 2015,
+        "film": "Homem-Formiga"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ef/Ant-Man_train_battle.png/revision/latest?cb=20150422230633",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Ant-Man_train_battle.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Quarto da Cassie",
+        "year": 2015,
+        "film": "Homem-Formiga"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c7/Giant-Man_bursts_out_of_Avengers_Compound.jpg/revision/latest?cb=20190531191905",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Giant-Man_bursts_out_of_Avengers_Compound.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b8/Giant-Man_%28Quantum_Realm%29.png/revision/latest?cb=20230217053648",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Giant-Man_(Quantum_Realm).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Reino Quântico",
+        "year": 2025,
+        "film": "Homem-Formiga e a Vespa: Quantumania"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/90/Ant-Man_Shower_Render.png/revision/latest?cb=20150131185145",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Ant-Man_Shower_Render.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje original",
+        "year": 2015,
+        "film": "Homem-Formiga"
+      }
+    ]
+  },
+  "vespa": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Evangeline_Lilly_2014_Comic_Con_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Evangeline_Lilly_2014_Comic_Con_01_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore",
+      "name": "Evangeline Lilly"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a4/Wasp_%26_Ant-Man.png/revision/latest?cb=20181002124819",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Wasp_%26_Ant-Man.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Laboratório de Pym",
+        "year": 2018,
+        "film": "Homem-Formiga e a Vespa"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/87/USTODAY_Ant-Man-and-Wasp.jpg/revision/latest?cb=20180527014512",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:USTODAY_Ant-Man-and-Wasp.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "São Francisco",
+        "year": 2018,
+        "film": "Homem-Formiga e a Vespa"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/24/Wasp_%28Endgame%29.png/revision/latest?cb=20190730224942",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Wasp_(Endgame).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8c/Wasp_in_Quantum_Realm.png/revision/latest?cb=20230112121032",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Wasp_in_Quantum_Realm.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Reino Quântico",
+        "year": 2025,
+        "film": "Homem-Formiga e a Vespa: Quantumania"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/af/Wasp_Ant-Man_And_The_Wasp_Quantumania_suit.png/revision/latest?cb=20240122083535",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Wasp_Ant-Man_And_The_Wasp_Quantumania_suit.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje com asas",
+        "year": 2025,
+        "film": "Homem-Formiga e a Vespa: Quantumania"
+      }
+    ]
+  },
+  "falcao": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Anthony_Mackie_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Anthony_Mackie_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_03.jpg",
+      "license": "CC BY 4.0",
+      "artist": "Quejaytee",
+      "name": "Anthony Mackie"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ed/Sam_Wilson_-_The_Falcon.png/revision/latest?cb=20131024223357",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Sam_Wilson_-_The_Falcon.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Washington, D.C.",
+        "year": 2014,
+        "film": "Capitão América 2: O Soldado Invernal"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/06/Falcon_%28Civil_War%29.png/revision/latest?cb=20201230212944",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Falcon_(Civil_War).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Aeroporto de Leipzig",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/91/Sam_Wilson_%28Captain_America%27s_Shield%29.jpg/revision/latest?cb=20210423223142",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Sam_Wilson_(Captain_America%27s_Shield).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Delacroix, Louisiana",
+        "year": 2024,
+        "film": "Falcão e o Soldado Invernal"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b9/Sam_Wilson_is_Captain_America.png/revision/latest?cb=20210426001000",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Sam_Wilson_is_Captain_America.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Nova York",
+        "year": 2024,
+        "film": "Falcão e o Soldado Invernal"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/be/CATWS_Falcon_Render.png/revision/latest?cb=20160512233800",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:CATWS_Falcon_Render.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Asas EXO-7",
+        "year": 2014,
+        "film": "Capitão América 2: O Soldado Invernal"
+      }
+    ]
+  },
+  "soldado-invernal": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sebastian_Stan_by_Gage_Skidmore_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Sebastian_Stan_by_Gage_Skidmore_2_(cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Sebastian Stan"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/21/Bucky_Barnes_-_The_Winter_Soldier.png/revision/latest?cb=20161105063421",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Bucky_Barnes_-_The_Winter_Soldier.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Washington, D.C.",
+        "year": 2014,
+        "film": "Capitão América 2: O Soldado Invernal"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/Bucky_Barnes_%282014%29.jpg/revision/latest?cb=20210415030029",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Bucky_Barnes_(2014).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Helicarrier da S.H.I.E.L.D.",
+        "year": 2014,
+        "film": "Capitão América 2: O Soldado Invernal"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e3/BUCKY.png/revision/latest?cb=20210404140911",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:BUCKY.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Madripoor",
+        "year": 2024,
+        "film": "Falcão e o Soldado Invernal"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/61/Bucky_Barnes_with_Captain_America%27s_shield.jpg/revision/latest?cb=20210607013733",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Bucky_Barnes_with_Captain_America%27s_shield.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Delacroix, Louisiana",
+        "year": 2024,
+        "film": "Falcão e o Soldado Invernal"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8d/WS_Bucky_promo-art.png/revision/latest?cb=20160512232340",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:WS_Bucky_promo-art.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Braço de metal",
+        "year": 2014,
+        "film": "Capitão América 2: O Soldado Invernal"
+      }
+    ]
+  },
+  "maquina-de-combate": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/DonCheadle-byPhilipRomano2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:DonCheadle-byPhilipRomano2.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "PhilipRomanoPhoto",
+      "name": "Don Cheadle"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/James-Rhodes-IM-Ending-Press.jpg/revision/latest?cb=20150811163317",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:James-Rhodes-IM-Ending-Press.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sede da Stark Industries",
+        "year": 2008,
+        "film": "Homem de Ferro"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/War_Machine_%28CACW%29.png/revision/latest?cb=20180821072946",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:War_Machine_(CACW).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Aeroporto de Leipzig",
+        "year": 2016,
+        "film": "Capitão América: Guerra Civil"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4d/James_Rhodes_%282018%29.jpg/revision/latest?cb=20240811080739",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:James_Rhodes_(2018).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/James_Rhodes_%28Time_Heist%29.png/revision/latest?cb=20190729144755",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:James_Rhodes_(Time_Heist).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Morag",
+        "year": 2014,
+        "film": "Vingadores: Ultimato"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/78/War_Machine_Armor_-_Mark_I.png/revision/latest?cb=20151218173900",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:War_Machine_Armor_-_Mark_I.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Armadura Mark I",
+        "year": 2010,
+        "film": "Homem de Ferro 2"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/War_Machine_Armor_-_Mark_IV.png/revision/latest?cb=20181230180717",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:War_Machine_Armor_-_Mark_IV.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Armadura Mark IV",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      }
+    ]
+  },
+  "senhor-das-estrelas": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Chris_Pratt_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Chris_Pratt_2018.jpg",
+      "license": "CC BY 2.0",
+      "artist": "Dick Thomas Johnson from Tokyo, Japan",
+      "name": "Chris Pratt"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/99/Star-Lord_finds_the_Orb.jpg/revision/latest?cb=20210504195037",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Star-Lord_finds_the_Orb.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Morag",
+        "year": 2014,
+        "film": "Guardiões da Galáxia"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/38/Star-Lord-Gamora-Space.png/revision/latest?cb=20150328145429",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Star-Lord-Gamora-Space.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Lugar Nenhum",
+        "year": 2014,
+        "film": "Guardiões da Galáxia"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/aa/Mantis%2C_Drax%2C_Gamora_%26_Star-Lord.png/revision/latest?cb=20221208034257",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Mantis,_Drax,_Gamora_%26_Star-Lord.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Orgoscópio",
+        "year": 2026,
+        "film": "Guardiões da Galáxia Vol. 3"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/18/Star-Lord%2C_Gamora_%26_Blurp.png/revision/latest?cb=20230213235452",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Star-Lord,_Gamora_%26_Blurp.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Contra-Terra",
+        "year": 2026,
+        "film": "Guardiões da Galáxia Vol. 3"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/95/Star-Lord_Promo_Art_Decor_III.png/revision/latest?cb=20161114044352",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Star-Lord_Promo_Art_Decor_III.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Sobretudo de Saqueador",
+        "year": 2014,
+        "film": "Guardiões da Galáxia"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e9/Star_Lord_GOTG_Vol._2_Render.png/revision/latest?cb=20170530175135",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Star_Lord_GOTG_Vol._2_Render.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Jaqueta dos Guardiões",
+        "year": 2014,
+        "film": "Guardiões da Galáxia Vol. 2"
+      }
+    ]
+  },
+  "gamora": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Zoe_Saldana_by_Gage_Skidmore_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Zoe_Saldana_by_Gage_Skidmore_3.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Zoe Saldaña"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e6/Gamora_%28Ego%27s_Planet%29.png/revision/latest?cb=20190403172159",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gamora_(Ego%27s_Planet).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Planeta de Ego",
+        "year": 2014,
+        "film": "Guardiões da Galáxia Vol. 2"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b3/Gamora_%28Taken_to_Vormir%29.png/revision/latest?cb=20240803012653",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gamora_(Taken_to_Vormir).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Vormir",
+        "year": 2018,
+        "film": "Vingadores: Guerra Infinita"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/74/Gamora_%28Battle_of_Earth%29.png/revision/latest?cb=20190828084035",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gamora_(Battle_of_Earth).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Complexo dos Vingadores",
+        "year": 2023,
+        "film": "Vingadores: Ultimato"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fc/Gamora_%28Vol._3%29.png/revision/latest?cb=20230814183509",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gamora_(Vol._3).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "A bordo de uma nave",
+        "year": 2026,
+        "film": "Guardiões da Galáxia Vol. 3"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/bb/Gamora_Promo_Art_Decor_I.png/revision/latest?cb=20140627191316",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gamora_Promo_Art_Decor_I.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje de assassina",
+        "year": 2014,
+        "film": "Guardiões da Galáxia"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9f/Gamora_Vol._2_Render.png/revision/latest?cb=20170530175131",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Gamora_Vol._2_Render.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Sobretudo de couro",
+        "year": 2014,
+        "film": "Guardiões da Galáxia Vol. 2"
+      }
+    ]
+  },
+  "loki": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Tom_Hiddleston_%2827992938324%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Tom_Hiddleston_(27992938324)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+      "name": "Tom Hiddleston"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1f/King_Loki_Thor_1.png/revision/latest?cb=20210512213656",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:King_Loki_Thor_1.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Asgard",
+        "year": 2010,
+        "film": "Thor"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e0/Loki_%28New_York_City%29.png/revision/latest?cb=20180823040412",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Loki_(New_York_City).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Nova York",
+        "year": 2012,
+        "film": "Os Vingadores"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/ff/Loki_on_Sakaar.jpg/revision/latest?cb=20170318053329",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Loki_on_Sakaar.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sakaar",
+        "year": 2017,
+        "film": "Thor: Ragnarok"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e3/Loki_%28TVA%29.jpg/revision/latest?cb=20210802202408",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Loki_(TVA).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Sede da AVT",
+        "year": 2012,
+        "film": "Loki"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5b/Loki_TheAvengers.png/revision/latest?cb=20120805072647",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Loki_TheAvengers.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Armadura com chifres",
+        "year": 2012,
+        "film": "Os Vingadores"
+      }
+    ]
+  },
+  "shang-chi": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Simu_Liu_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Simu_Liu_by_Gage_Skidmore.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Simu Liu"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/04/Bus_Boy_Shang-Chi.png/revision/latest?cb=20211114023801",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Bus_Boy_Shang-Chi.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "São Francisco",
+        "year": 2024,
+        "film": "Shang-Chi e a Lenda dos Dez Anéis"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0f/Jeremy-love-macau-scaffbreak-fallingscene02-w001-jl-200131.jpg/revision/latest?cb=20220911230718",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Jeremy-love-macau-scaffbreak-fallingscene02-w001-jl-200131.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Macau",
+        "year": 2024,
+        "film": "Shang-Chi e a Lenda dos Dez Anéis"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a1/Shang-Chi_on_Ta_Lo.png/revision/latest?cb=20220528020345",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Shang-Chi_on_Ta_Lo.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Ta Lo",
+        "year": 2024,
+        "film": "Shang-Chi e a Lenda dos Dez Anéis"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/Guardians_of_Ta_Lo.png/revision/latest?cb=20220606005853",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Guardians_of_Ta_Lo.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Ta Lo",
+        "year": 2024,
+        "film": "Shang-Chi e a Lenda dos Dez Anéis"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ac/Shang-Chi_promo_art_characters2.jpg/revision/latest?cb=20210805215542",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Shang-Chi_promo_art_characters2.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje de Ta Lo",
+        "year": 2024,
+        "film": "Shang-Chi e a Lenda dos Dez Anéis"
+      }
+    ]
+  },
+  "cavaleiro-da-lua": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Oscar_Isaac_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Oscar_Isaac_by_Gage_Skidmore.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Gage Skidmore",
+      "name": "Oscar Isaac"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2e/Steven_Grant_fired_from_the_museum.png/revision/latest?cb=20220408225132",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Steven_Grant_fired_from_the_museum.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Galeria Nacional, Londres",
+        "year": 2025,
+        "film": "Cavaleiro da Lua"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3b/Mr._Knight_%28First_Look%29.png/revision/latest?cb=20220414033059",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Mr._Knight_(First_Look).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Londres",
+        "year": 2025,
+        "film": "Cavaleiro da Lua"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/37/Marc_Spector%27s_in_Cairo.png/revision/latest?cb=20220419084741",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Marc_Spector%27s_in_Cairo.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Cairo",
+        "year": 2025,
+        "film": "Cavaleiro da Lua"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/51/Steven_Grant.jpg/revision/latest?cb=20220420110456",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Steven_Grant.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Tumba de Alexandre, o Grande",
+        "year": 2025,
+        "film": "Cavaleiro da Lua"
+      }
+    ],
+    "suits": []
+  },
+  "ms-marvel": {
+    "actor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Iman_Vellani_2022_%282%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Iman_Vellani_2022_(2).png",
+      "license": "Domínio público",
+      "artist": "VOA Urdu",
+      "name": "Iman Vellani"
+    },
+    "scenes": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/11/Kamala_Khan_as_Ms._Marvel.png/revision/latest?cb=20220722090411",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Kamala_Khan_as_Ms._Marvel.png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Jersey City",
+        "year": 2025,
+        "film": "Ms. Marvel"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8d/Kamala_Khan_%28Karachi_Station%29.png/revision/latest?cb=20220702115342",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Kamala_Khan_(Karachi_Station).png",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Estação de Carachi",
+        "year": 2025,
+        "film": "Ms. Marvel"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/37/Kamala_Khan_%28Partition%29.jpg/revision/latest?cb=20220713000923",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Kamala_Khan_(Partition).jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Partição da Índia",
+        "year": 1947,
+        "film": "Ms. Marvel"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8d/Carol_Danvers_%26_Kamala_Khan.jpg/revision/latest?cb=20230722213515",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Carol_Danvers_%26_Kamala_Khan.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "place": "Casa dos Rambeau",
+        "year": 2026,
+        "film": "As Marvels"
+      }
+    ],
+    "suits": [
+      {
+        "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ab/Ms._Marvel_Promo_Art.jpg/revision/latest?cb=20210802185646",
+        "page": "https://marvelcinematicuniverse.fandom.com/wiki/File:Ms._Marvel_Promo_Art.jpg",
+        "license": "© Marvel Studios",
+        "artist": "",
+        "name": "Traje feito em casa",
+        "year": 2025,
+        "film": "Ms. Marvel"
+      }
+    ]
+  }
+}

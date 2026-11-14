@@ -1,0 +1,138 @@
+@import "tailwindcss";
+
+/*
+ * Revista colecionável: papel creme, tinta preta e a cor forte da edição.
+ * --accent / --accent-2 / --glow mudam a cada personagem (GSAP, src/lib/palette.ts).
+ */
+:root {
+  --paper: #f3ead6;
+  --paper-2: #e8dbbd;
+  --ink: #141210;
+  --muted: #6b5e4c;
+
+  --accent: #c8161d;
+  --accent-2: #f2b318;
+  --glow: #6e0b0f;
+
+  --radius: 0px;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
+  --color-glow: var(--glow);
+
+  /* aliases shadcn */
+  --color-background: var(--paper);
+  --color-foreground: var(--ink);
+  --color-primary: var(--accent);
+  --color-primary-foreground: var(--paper);
+  --color-border: var(--ink);
+  --color-ring: var(--ink);
+  --radius-sm: var(--radius);
+  --radius-md: var(--radius);
+  --radius-lg: var(--radius);
+
+  --font-display: "Anton", Impact, "Arial Narrow", sans-serif;
+  --font-serif: "Fraunces", Georgia, serif;
+  --font-hand: "Caveat", "Comic Sans MS", cursive;
+  --font-sfx: "Bangers", Impact, sans-serif;
+  --font-balloon: "Comic Neue", "Comic Sans MS", "Chalkboard SE", sans-serif;
+}
+
+html,
+body {
+  color: var(--ink);
+  font-family: var(--font-serif);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* papel: cor creme + grão estático (grain.png já vem com alfa baixo; sem camada por cima do canvas) */
+body {
+  min-height: 100dvh;
+  background-color: var(--paper);
+  background-image:
+    radial-gradient(ellipse 120% 80% at 50% 0%, rgb(255 255 255 / 0.45), transparent 60%),
+    url("/textures/grain.png");
+  background-size: 100% 100%, 256px;
+}
+
+::selection {
+  background: var(--accent-2);
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 3px dashed var(--ink);
+  outline-offset: 4px;
+}
+
+/* ---------- Textura temática do herói (definida em src/lib/palette.ts) ---------- */
+.bg-texture {
+  background-image: var(--hero-texture, none);
+  background-size: var(--hero-texture-size, 160px 160px);
+}
+
+/* ---------- Retícula (halftone) ---------- */
+.halftone {
+  background-image: radial-gradient(circle, var(--ink) 32%, transparent 34%);
+  background-size: 7px 7px;
+}
+.halftone-paper {
+  background-image: radial-gradient(circle, var(--paper) 30%, transparent 33%);
+  background-size: 9px 9px;
+}
+.halftone-accent {
+  background-image: radial-gradient(circle, var(--accent) 30%, transparent 33%);
+  background-size: 12px 12px;
+}
+
+/* ---------- Fita adesiva ---------- */
+.tape {
+  background:
+    repeating-linear-gradient(90deg, rgb(255 255 255 / 0.18) 0 2px, transparent 2px 6px),
+    rgb(236 224 190 / 0.78);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.15);
+  clip-path: polygon(
+    0 8%, 4% 0, 8% 10%, 12% 0, 88% 0, 92% 12%, 96% 0, 100% 8%,
+    100% 92%, 96% 100%, 92% 88%, 88% 100%, 12% 100%, 8% 90%, 4% 100%, 0 92%
+  );
+}
+
+/* ---------- Faixas correndo (marquee) ---------- */
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee var(--marquee-speed, 28s) linear infinite;
+}
+.marquee-track[data-reverse] {
+  animation-direction: reverse;
+}
+@keyframes marquee {
+  to { transform: translateX(-50%); }
+}
+
+/* contorno de tinta em texto gigante */
+.ink-stroke {
+  -webkit-text-stroke: 3px var(--ink);
+  paint-order: stroke fill;
+}
+
+.scrollbar-none {
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none;
+  }
+}
