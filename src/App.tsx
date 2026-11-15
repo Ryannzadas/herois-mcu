@@ -75,8 +75,24 @@ export default function App() {
 
 function Footer() {
   return (
-    <footer className="bg-ink px-4 py-6 text-center font-sfx text-lg tracking-wide text-paper sm:px-8">
-      Projeto de fã, sem ligação com a Marvel Studios ou a Disney.
+    <footer className="flex flex-col items-center gap-4 bg-ink px-4 py-6 text-center sm:px-8">
+      <p className="font-sfx text-lg tracking-wide text-paper">
+        Projeto de fã, sem ligação com a Marvel Studios ou a Disney.
+      </p>
+      <a
+        href="https://hydra-labs-studio.vercel.app"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="rounded-full opacity-85 transition-opacity hover:opacity-100 focus-visible:opacity-100 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-paper"
+      >
+        <img
+          src="/hydra-labs-selo.svg"
+          alt="Desenvolvido por Hydra Labs"
+          width={196}
+          height={28}
+          loading="lazy"
+        />
+      </a>
     </footer>
   )
 }
