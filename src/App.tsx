@@ -14,7 +14,7 @@ import { CHARACTERS, getCharacter } from '@/data/characters'
 import { drawHero, readLastHero, saveLastHero } from '@/lib/draw'
 import { applyPalette } from '@/lib/palette'
 import { ScrollTrigger } from '@/lib/gsap'
-import { startSmoothScroll } from '@/lib/smooth-scroll'
+import { jumpToTop, startSmoothScroll } from '@/lib/smooth-scroll'
 
 const initialHero = () => drawHero(CHARACTERS, readLastHero()).id
 
@@ -39,12 +39,14 @@ export default function App() {
 
   const select = (id: string) => {
     if (id === currentId || drawing) return
+    jumpToTop()
     setCurrentId(id)
   }
 
   const randomize = () => {
     if (drawing) return
     const hero = drawHero(CHARACTERS, currentId)
+    jumpToTop()
     setCurrentId(hero.id)
     setDrawing(true)
   }

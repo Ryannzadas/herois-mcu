@@ -34,3 +34,9 @@ export function scrollToTarget(target: number | string | HTMLElement) {
   else if (typeof target === 'number') window.scrollTo({ top: target, behavior: 'smooth' })
   else (typeof target === 'string' ? document.querySelector(target) : target)?.scrollIntoView({ behavior: 'smooth' })
 }
+
+/** Volta para o topo na hora, sem animar (troca de edição: abre a revista nova na capa). */
+export function jumpToTop() {
+  if (lenis) lenis.scrollTo(0, { immediate: true, force: true })
+  window.scrollTo(0, 0)
+}
